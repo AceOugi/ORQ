@@ -5,6 +5,8 @@
         "php": "^7.0"
     },
     "autoload": {
-        "ORQ\\": "src/"
+        "psr-4": {
+            "ORQ\\": "src/"
+        }
     }
 }
