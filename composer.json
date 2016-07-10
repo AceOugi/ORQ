@@ -1,0 +1,10 @@
+{
+    "name": "aceougi/orq",
+    "type": "library",
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "ORQ\\": "src/"
+    }
+}
